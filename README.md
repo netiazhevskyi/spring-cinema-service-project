@@ -11,7 +11,8 @@ Hibernate, Java Core, as well as REST architectural style
 - It implements Authentication using an existing DataSource configuration. Database used is MySQL.
 - Each user has list of roles that define list of resources accessible for this user.
 - JSON format is used to transmit data in a web application.  
-####**Technologies used:**
+
+**Technologies used:**
 - Java 11
 - Spring Framework (Core, MVC, Security)
 - JSON
