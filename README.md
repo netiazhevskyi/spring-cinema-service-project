@@ -1,6 +1,7 @@
-###**Cinema Service Spring Project**
+### **Cinema Service Spring Project**
 
-####**Description:**
+**Description:**
+
 An example of a REST WebServer developed using Spring Framework (MVC and Security).
 This application represents shop, where users can buy for the available movies.
 - Main idea to create application is to show knowledge of Spring Core, Security and MVC,
@@ -17,7 +18,7 @@ Hibernate, Java Core, as well as REST architectural style
 - Hibernate ORM
 - MySQL
 
-####**To run this app locally:**
+**To run this app locally:**
 - Fork this project to your repository
 - Use one of the "Code" options available to copy project and open it in IntelliJ IDEA
 - Change properties for the folliwing line in db.properties file:
