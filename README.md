@@ -1,9 +1,9 @@
 ### **Cinema Service**
 
-**Description:**
+####**Description:**
 
 An example of a REST WebServer developed using Spring Framework (MVC and Security).
-This application represents shop, where users can buy for the available movies.
+This application represents shop, where users can buy tickets for the available movies.
 - Main idea to create application is to show knowledge of Spring Core, Security and MVC,
 Hibernate, Java Core, as well as REST architectural style 
 - Application implements 3 layer architecture with controller, service and DAO layers.
@@ -12,24 +12,24 @@ Hibernate, Java Core, as well as REST architectural style
 - Each user has list of roles that define list of resources accessible for this user.
 - JSON format is used to transmit data in a web application.  
 
-**Technologies used:**
+####**Technologies used:**
 - Java 11
 - Spring Framework (Core, MVC, Security)
-- JSON
-- Hibernate ORM
 - MySQL
+- Hibernate ORM
 
-**To run this app locally:**
+
+####**To run this app locally:**
 - Fork this project to your repository
 - Use one of the "Code" options available to copy project and open it in IntelliJ IDEA
 - Change properties for the folliwing line in db.properties file:
-
+```
 `  db.driver=DRIVER ` 
 
 ` db.url=URL TO DATABASE`
  
 ` db.user=USERNAME`
 
-`db.password=PASSWORD`
+`db.password=PASSWORD ```
 - Simply run application on your computer. You should Postman API to send Get, Post,
 Delete, Put requests to the webserver.
