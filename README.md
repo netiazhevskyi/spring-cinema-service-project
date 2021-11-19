@@ -6,9 +6,7 @@ An example of a REST WebServer developed using Spring Framework (MVC and Securit
 
 This application represents shop, where users can buy tickets for the available movies.
 
-- Main idea to create application is to show knowledge of Spring Core, Security and MVC,
-
-Hibernate, Java Core, as well as REST architectural style 
+- Main idea to create application is to show knowledge of Spring Core, Security and MVC, Hibernate, Java Core, as well as REST architectural style 
 
 - Application implements 3 layer architecture with controller, service and DAO layers.
 
@@ -48,6 +46,4 @@ db.user=USERNAME
 db.password=PASSWORD
 
 ```
-- Simply run application on your computer. You should Postman API to send Get, Post,
-
-Delete, Put requests to the webserver.
+- Simply run application on your computer. You should Postman API to send Get, Post, Delete, Put requests to the webserver.
