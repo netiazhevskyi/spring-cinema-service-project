@@ -1,4 +1,4 @@
-### **Cinema Service Spring Project**
+### **Cinema Service
 
 **Description:**
 
