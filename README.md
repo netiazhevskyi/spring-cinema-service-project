@@ -39,7 +39,6 @@ Hibernate, Java Core, as well as REST architectural style
 - Change properties for the folliwing line in db.properties file:
 
 ```
-
 db.driver=DRIVER
 
 db.url=URL TO DATABASE
@@ -49,7 +48,6 @@ db.user=USERNAME
 db.password=PASSWORD
 
 ```
-
 - Simply run application on your computer. You should Postman API to send Get, Post,
 
 Delete, Put requests to the webserver.
